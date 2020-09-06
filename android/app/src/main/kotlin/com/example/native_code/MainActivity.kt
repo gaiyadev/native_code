@@ -1,4 +1,4 @@
-package com.example.flutter_complete_guide;
+package com.example.native_code
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;
